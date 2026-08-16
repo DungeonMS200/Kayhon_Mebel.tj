@@ -1,0 +1,46 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "luxury furniture workshop craftsmanship wood working detail"
+✅ Got 5 images
+{
+  "success": true,
+  "query": "luxury furniture workshop craftsmanship wood working detail",
+  "count": 5,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e84f163286ac.jpg",
+      "caption": "",
+      "source": "LUXE Interiors + Design",
+      "original_width": "1500px",
+      "original_height": "922px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6a9442182ad4.webp",
+      "caption": "",
+      "source": "TheArsenale",
+      "original_width": "1376px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7aea8cfe54d0.jpg",
+      "caption": "",
+      "source": "The Crucible",
+      "original_width": "2048px",
+      "original_height": "1366px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8f30ae4ad004.png",
+      "caption": "",
+      "source": "Silk & Wood Interiors - Silk & Wood Interiors",
+      "original_width": "1248px",
+      "original_height": "832px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/69b207e21c1c.jpg",
+      "caption": "",
+      "source": "The Crucible",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    }
+  ]
+}

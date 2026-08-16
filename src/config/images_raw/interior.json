@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "modern minimalist interior architecture warm wood premium detail"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "modern minimalist interior architecture warm wood premium detail",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4c80448759d8.jpg",
+      "caption": "",
+      "source": "Homes and Gardens",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ee6365e97994.jpg",
+      "caption": "",
+      "source": "ELLE Decor",
+      "original_width": "1768px",
+      "original_height": "2308px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/64c6a17f5852.jpg",
+      "caption": "",
+      "source": "Condos And Commercial Spaces In Singapore",
+      "original_width": "2560px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e6b64f370222.jpg",
+      "caption": "",
+      "source": "Marazzi",
+      "original_width": "1350px",
+      "original_height": "759px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f90e20e9c413.png",
+      "caption": "",
+      "source": "About Wall Art",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a44fcd85662f.jpg",
+      "caption": "",
+      "source": "Wallpaper",
+      "original_width": "1460px",
+      "original_height": "1781px"
+    }
+  ]
+}

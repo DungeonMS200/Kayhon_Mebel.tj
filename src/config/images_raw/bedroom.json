@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "premium modern bedroom interior design minimalist warm tones"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "premium modern bedroom interior design minimalist warm tones",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4fe25cda8c9b.jpg",
+      "caption": "",
+      "source": "Homes and Gardens",
+      "original_width": "4000px",
+      "original_height": "6000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/028be95e453e.png",
+      "caption": "",
+      "source": "GoldenHome Global",
+      "original_width": "1248px",
+      "original_height": "832px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aaf9c089e913.jpg",
+      "caption": "",
+      "source": "Homes and Gardens",
+      "original_width": "3199px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aca4f5980e5a.webp",
+      "caption": "",
+      "source": "CharmyDecor",
+      "original_width": "1536px",
+      "original_height": "1152px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6272256904be.jpg",
+      "caption": "",
+      "source": "Megafurniture Singapore",
+      "original_width": "2160px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/caf7b03db28d.jpg",
+      "caption": "",
+      "source": "Interior Design Ideas",
+      "original_width": "1200px",
+      "original_height": "1500px"
+    }
+  ]
+}

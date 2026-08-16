@@ -1,0 +1,46 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "dramatic luxury modern living room interior warm wood large window"
+✅ Got 5 images
+{
+  "success": true,
+  "query": "dramatic luxury modern living room interior warm wood large window",
+  "count": 5,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dcedff8c9d17.jpg",
+      "caption": "",
+      "source": "Architectural Digest",
+      "original_width": "8688px",
+      "original_height": "4887px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/239d8ac117fa.jpg",
+      "caption": "",
+      "source": "Chris Loves Julia",
+      "original_width": "781px",
+      "original_height": "1172px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6a708517fdd9.jpg",
+      "caption": "",
+      "source": "Architectural Digest",
+      "original_width": "6720px",
+      "original_height": "3780px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/324c6ffc53e3.jpg",
+      "caption": "",
+      "source": "Chris Loves Julia",
+      "original_width": "781px",
+      "original_height": "1172px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/859f3bbf9fad.jpg",
+      "caption": "",
+      "source": "Homes and Gardens",
+      "original_width": "2000px",
+      "original_height": "1334px"
+    }
+  ]
+}

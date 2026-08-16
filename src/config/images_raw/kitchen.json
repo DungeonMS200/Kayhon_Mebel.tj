@@ -1,0 +1,67 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "luxury modern custom kitchen cabinetry interior design warm wood"
+✅ Got 8 images
+{
+  "success": true,
+  "query": "luxury modern custom kitchen cabinetry interior design warm wood",
+  "count": 8,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e4b7cdd0b71b.png",
+      "caption": "",
+      "source": "Mountain Living",
+      "original_width": "1828px",
+      "original_height": "1215px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a2cccf792249.jpg",
+      "caption": "",
+      "source": "Homes and Gardens",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d8f4b90a821b.jpg",
+      "caption": "",
+      "source": "L'Atelier Paris Haute Design",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e09ca06a8c47.jpg",
+      "caption": "",
+      "source": "Homes and Gardens",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/056db0a6eecc.jpg",
+      "caption": "",
+      "source": "ELLE Decor",
+      "original_width": "2500px",
+      "original_height": "1667px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bb14f4758bab.jpeg",
+      "caption": "",
+      "source": "Decorilla",
+      "original_width": "2222px",
+      "original_height": "1548px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b418ec042f95.jpeg",
+      "caption": "",
+      "source": "Toll Brothers",
+      "original_width": "1680px",
+      "original_height": "767px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3d7fcd5a7dba.jpg",
+      "caption": "",
+      "source": "Solid Construction & Design",
+      "original_width": "1500px",
+      "original_height": "841px"
+    }
+  ]
+}

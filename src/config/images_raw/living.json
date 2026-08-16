@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "modern luxury living room sofa upholstered furniture minimalist"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "modern luxury living room sofa upholstered furniture minimalist",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a16e4098f2c5.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "1500px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dcedff8c9d17.jpg",
+      "caption": "",
+      "source": "Architectural Digest",
+      "original_width": "8688px",
+      "original_height": "4887px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2106aae580e7.jpeg",
+      "caption": "",
+      "source": "Lowe's",
+      "original_width": "900px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1bd09a6eabbe.jpg",
+      "caption": "",
+      "source": "Povison",
+      "original_width": "1000px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0ce336201118.jpg",
+      "caption": "",
+      "source": "BRABBU",
+      "original_width": "900px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bb946b3ccf05.jpg",
+      "caption": "",
+      "source": "ELLE Decor",
+      "original_width": "839px",
+      "original_height": "1261px"
+    }
+  ]
+}

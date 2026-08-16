@@ -1,0 +1,46 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "elegant minimalist hallway entryway console furniture interior design"
+✅ Got 5 images
+{
+  "success": true,
+  "query": "elegant minimalist hallway entryway console furniture interior design",
+  "count": 5,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4aa63f9804de.jpg",
+      "caption": "",
+      "source": "Amazon.com",
+      "original_width": "894px",
+      "original_height": "894px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3dc45f70dad5.jpeg",
+      "caption": "",
+      "source": "Italian Shoe Factory",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dd6f81f5c43e.jpg",
+      "caption": "",
+      "source": "Overstock",
+      "original_width": "2000px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d167e3bb38b6.jpg",
+      "caption": "",
+      "source": "House Beautiful",
+      "original_width": "977px",
+      "original_height": "1465px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/38179fb253df.jpg",
+      "caption": "",
+      "source": "kr.pinterest.com",
+      "original_width": "736px",
+      "original_height": "1104px"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+🚀 Initializing Z-AI SDK...
+🔎 Searching images: "custom built-in wardrobe closet luxury modern interior"
+✅ Got 6 images
+{
+  "success": true,
+  "query": "custom built-in wardrobe closet luxury modern interior",
+  "count": 6,
+  "ranked": false,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2c9bed117f02.jpg",
+      "caption": "",
+      "source": "California Closets Canada",
+      "original_width": "1400px",
+      "original_height": "740px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/581044338b46.jpg",
+      "caption": "",
+      "source": "ELLE Decor",
+      "original_width": "1844px",
+      "original_height": "2500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2d53531a063a.png",
+      "caption": "",
+      "source": "HomeLane",
+      "original_width": "1280px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bb0930b7444f.jpg",
+      "caption": "",
+      "source": "California Closets",
+      "original_width": "2880px",
+      "original_height": "1580px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1260ed6189fd.jpg",
+      "caption": "",
+      "source": "ELLE Decor",
+      "original_width": "4408px",
+      "original_height": "5831px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/578fd1ed3ae2.jpg",
+      "caption": "",
+      "source": "Pinterest",
+      "original_width": "736px",
+      "original_height": "1318px"
+    }
+  ]
+}
